@@ -18,3 +18,11 @@
     margin-top: 32px;
     flex-wrap: wrap;
 }
+
+.time .color-receptor{
+    width: 60px;
+}
+.time .config-box{
+    display: flex;
+    justify-content: flex-end;
+}
